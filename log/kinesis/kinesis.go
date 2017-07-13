@@ -3,7 +3,7 @@ package kinesis
 import (
 	"net/http"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/evalphobia/logrus_kinesis"
 
 	"github.com/evalphobia/go-log-wrapper/log"

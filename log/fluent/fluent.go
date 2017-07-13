@@ -3,7 +3,7 @@ package fluent
 import (
 	"net/http"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/evalphobia/logrus_fluent"
 
 	"github.com/evalphobia/go-log-wrapper/log"

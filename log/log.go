@@ -3,7 +3,7 @@ package log
 import (
 	"fmt"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/davecgh/go-spew/spew"
 )
 
